@@ -5,3 +5,11 @@ Despite its abundance in the fossil record, grass pollen is largely overlooked a
 
 # Significance Statement 
 Deep learning and superresolution imaging are capable of solving some of the most intractable identification problems in fossil pollen analysis. The pollen of grass species are morphologically indistinguishable under traditional light and difficult to discriminate. However, superresolution imaging and deep learning successfully distinguishes the pollen of grass species. Features derived from convolutional neural networks quantify the biological and physiological diversity of grass pollen assemblages and can be applied without a priori knowledge of the species present, allowing reconstructions of changes in grass diversity and $C_4$ abundance. This approach unlocks new ecological information preserved in the abundant grass pollen record.
+
+# Main Structure 
+There are four folders in this repository:
+
+
+# Hardware Specifications
+Experiments were conducted on an NVIDIA GeForce RTX3090 GPU card with 24 GB of memory and an NVIDIA A100 SXM4 card with 40 GB of memory. We used the [PyTorch toolbox](https://pytorch.org/) for training neural networks.
+
