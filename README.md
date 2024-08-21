@@ -3,7 +3,7 @@
   <img src="https://github.com/madaime2/Pollen_Biodiversity_Reconstruction/blob/main/Grass_Project_Figures/Fig1_Grass_Pollen_Project.png" width = 950 title="hover text">
 
 <p align="center">
-  <img src="https://github.com/madaime2/Pollen_Biodiversity_Reconstruction/blob/main/Grass_Project_Figures/Fig2_Grass_Pollen_Project.png" width = 150 title="hover text">
+  <img src="https://github.com/madaime2/Pollen_Biodiversity_Reconstruction/blob/main/Grass_Project_Figures/Fig2_Grass_Pollen_Project.png" width = 450 title="hover text">
   
 
 # Abstract
