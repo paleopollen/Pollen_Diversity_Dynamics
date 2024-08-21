@@ -1,15 +1,16 @@
 # Biodiversity dynamics of Late Quaternary East African grasslands reconstructed using fossil Poaceae pollen and deep learning 
-<p align="center">
-  <img src="https://github.com/madaime2/Pollen_Biodiversity_Reconstruction/blob/main/Grass_Project_Figures/Fig1_Grass_Pollen_Project.png" width = 950 title="hover text">
 
 <p align="center">
-  <img src="https://github.com/madaime2/Pollen_Biodiversity_Reconstruction/blob/main/Grass_Project_Figures/Fig2_Grass_Pollen_Project.png" width = 350 title="hover text">
+  <img src="https://github.com/madaime2/Pollen_Biodiversity_Reconstruction/blob/main/Grass_Project_Figures/Fig1_Grass_Pollen_Project.png" width="950" title="hover text">
+</p>
 
-<p align="center">
-  <img src="https://github.com/madaime2/Pollen_Biodiversity_Reconstruction/blob/main/Grass_Project_Figures/Fig3_Grass_Pollen_Project.png" width = 350 title="hover text">
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://github.com/madaime2/Pollen_Biodiversity_Reconstruction/blob/main/Grass_Project_Figures/Fig2_Grass_Pollen_Project.png" width="350" title="hover text">
+  
+  <img src="https://github.com/madaime2/Pollen_Biodiversity_Reconstruction/blob/main/Grass_Project_Figures/Fig3_Grass_Pollen_Project.png" width="350" title="hover text" style="margin: 0 15px;">
 
-<p align="center">
-  <img src="https://github.com/madaime2/Pollen_Biodiversity_Reconstruction/blob/main/Grass_Project_Figures/Fig4_Grass_Pollen_Project.png" width = 350 title="hover text">
+  <img src="https://github.com/madaime2/Pollen_Biodiversity_Reconstruction/blob/main/Grass_Project_Figures/Fig4_Grass_Pollen_Project.png" width="350" title="hover text">
+</div>
   
 
 # Abstract
