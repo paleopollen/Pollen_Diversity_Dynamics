@@ -4,11 +4,9 @@
   <img src="https://github.com/madaime2/Pollen_Biodiversity_Reconstruction/blob/main/Grass_Project_Figures/Fig1_Grass_Pollen_Project.png" width="950" title="hover text">
 </p>
 
-<div style="text-align: center; position: relative; display: inline-block;">
-  <img src="https://github.com/madaime2/Pollen_Biodiversity_Reconstruction/blob/main/Grass_Project_Figures/Fig2_Grass_Pollen_Project.png" width="375" title="hover text" style="position: relative; z-index: 2; top: -50px;">
-  
-  <img src="https://github.com/madaime2/Pollen_Biodiversity_Reconstruction/blob/main/Grass_Project_Figures/Fig4_Grass_Pollen_Project.png" width="375" title="hover text" style="position: relative; z-index: 1;">
-</div>
+<p align="center">
+  <img src="https://github.com/madaime2/Pollen_Biodiversity_Reconstruction/blob/main/Grass_Project_Figures/Fig2_4_Grass_Pollen_Project.png" width="450" title="hover text">
+</p>
 
 <p align="center">
   <img src="https://github.com/madaime2/Pollen_Biodiversity_Reconstruction/blob/main/Grass_Project_Figures/Fig3_Grass_Pollen_Project.png" width="550" title="hover text">
