@@ -19,5 +19,5 @@ Deep learning and superresolution imaging are capable of solving some of the mos
 There are four folders in this repository:
 
 # Hardware Specifications
-Experiments were conducted on an NVIDIA GeForce RTX3090 GPU card with 24 GB of memory and an NVIDIA A100 SXM4 card with 40 GB of memory. We used the [PyTorch toolbox](https://pytorch.org/) for training neural networks.
+Experiments were conducted on an NVIDIA GeForce RTX3090 GPU card with 24 GB of memory and an NVIDIA A100 SXM4 card with 40 GB of memory. We used the [PyTorch toolbox](https://pytorch.org/) for training neural networks. Additionally, some analyses were performed using R on a standard CPU. 
 
