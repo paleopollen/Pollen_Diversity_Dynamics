@@ -1,4 +1,4 @@
-# Biodiversity dynamics of Late Quaternary East African grasslands reconstructed using fossil Poaceae pollen and deep learning 
+# Reconstructing the diversity dynamics of Late Quaternary grasslands through application of deep learning on superresolution images of fossil Poaceae pollen
 
 <p align="center">
   <img src="https://github.com/madaime2/Pollen_Biodiversity_Reconstruction/blob/main/Grass_Project_Figures/Fig1_Grass_Pollen_Project.png" width="950" title="hover text">
