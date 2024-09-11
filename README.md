@@ -1,11 +1,11 @@
 # Reconstructing the diversity dynamics of Late Quaternary grasslands through application of deep learning on superresolution images of fossil Poaceae pollen
 
 <p align="center">
-  <img src="https://github.com/madaime2/Pollen_Biodiversity_Reconstruction/blob/main/Rutundu_Figures/Figure_2_MountKenya_Map.png" width="950" title="hover text">
+  <img src="https://github.com/madaime2/Pollen_Biodiversity_Reconstruction/blob/main/Figures_Rutundu/Figure_2_MountKenya_Map.png" width="950" title="hover text">
 </p>
 
 <p align="center">
-  <img src="https://github.com/madaime2/Pollen_Biodiversity_Reconstruction/blob/main/Rutundu_Figures/Figures_1-4.png" width="750" title="hover text">
+  <img src="https://github.com/madaime2/Pollen_Biodiversity_Reconstruction/blob/main/Figures_Rutundu/Figures_1-4.png" width="750" title="hover text">
 </p>
   
 # Abstract
