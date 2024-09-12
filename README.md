@@ -17,7 +17,7 @@ Deep learning and superresolution imaging are capable of solving some of the mos
 # Main Structure 
 There are three main folders in this repository:
 1. [Training and Classification](https://github.com/paleopollen/Pollen_Diversity_Dynamics/tree/main/00_Training_and_Classification): Scripts for training the two classification models described in the paper using two modalities: maximum intensity projection (MIP) images, and patches.
-2. [Biodiversity Estimation](https://github.com/paleopollen/Pollen_Diversity_Dynamics/tree/main/01_Diversity_Estimation): Scripts for running the ecological simulations described in the paper and for applying Shannon entropy to calculate morphological diversity along the Lake Rutundu sediment core over the past 25,000 years. 
+2. [Diversity Estimation](https://github.com/paleopollen/Pollen_Diversity_Dynamics/tree/main/01_Diversity_Estimation): Scripts for running the ecological simulations described in the paper and for applying Shannon entropy to calculate morphological diversity along the Lake Rutundu sediment core over the past 25,000 years. 
 3. [Photosynthetic Pathway Analysis](https://github.com/paleopollen/Pollen_Diversity_Dynamics/tree/main/02_Photosynthetic_Pathway_Analysis): Scripts for detecting morphological differences between C<sub>3</sub> and C<sub>4</sub> grass pollen while accounting for phylogenetic relatedness, and for developing a random forest classifier to identify the photosynthetic pathway (C<sub>3</sub> or C<sub>4</sub>) of grass fossil pollen based on morphology alone. 
 
 # Hardware Specifications
