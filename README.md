@@ -16,9 +16,9 @@ Deep learning and superresolution imaging are capable of solving some of the mos
 
 # Main Structure 
 There are three main folders in this repository:
-1. [Training and Classification](https://github.com/madaime2/Novel_Pollen_Phylogenetic_Placement/tree/main/01_Training_and_Classification): Scripts for training the two classification models described in the paper using two modalities: maximum intensity projection (MIP) images, and patches.
-2. [Biodiversity Estimation](https://github.com/madaime2/Novel_Pollen_Phylogenetic_Placement/tree/main/02_Biodiversity_Estimation): Scripts for running the ecological simulations described in the paper and for applying Shannon entropy to calculate morphological diversity along the Lake Rutundu sediment core over the past 25,000 years. 
-3. [Photosynthetic Pathway Analysis](https://github.com/madaime2/Novel_Pollen_Phylogenetic_Placement/tree/main/03_Photosynthetic_Pathway_Analysis): Scripts for detecting morphological differences between $C_3$ and $C_4$ grass pollen while accounting for phylogenetic relatedness, and for developing a random forest classifier to identify the photosynthetic pathway ($C_3$ or $C_4$) of grass fossil pollen based on morphology alone. 
+1. [Training and Classification](https://github.com/paleopollen/Pollen_Diversity_Dynamics/tree/main/00_Training_and_Classification): Scripts for training the two classification models described in the paper using two modalities: maximum intensity projection (MIP) images, and patches.
+2. [Biodiversity Estimation](https://github.com/paleopollen/Pollen_Diversity_Dynamics/tree/main/01_Diversity_Estimation): Scripts for running the ecological simulations described in the paper and for applying Shannon entropy to calculate morphological diversity along the Lake Rutundu sediment core over the past 25,000 years. 
+3. [Photosynthetic Pathway Analysis](https://github.com/paleopollen/Pollen_Diversity_Dynamics/tree/main/02_Photosynthetic_Pathway_Analysis): Scripts for detecting morphological differences between $C_3$ and $C_4$ grass pollen while accounting for phylogenetic relatedness, and for developing a random forest classifier to identify the photosynthetic pathway ($C_3$ or $C_4$) of grass fossil pollen based on morphology alone. 
 
 # Hardware Specifications
 Experiments were conducted on an NVIDIA GeForce RTX3090 GPU card with 24 GB of memory and an NVIDIA A100 SXM4 card with 40 GB of memory. We used the [PyTorch toolbox](https://pytorch.org/) for training neural networks. Additionally, some analyses were performed using R on a standard CPU. 
