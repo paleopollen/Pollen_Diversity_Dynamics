@@ -1,4 +1,4 @@
-# Reconstructing the diversity dynamics of Late Quaternary grasslands through application of deep learning on superresolution images of fossil Poaceae pollen
+# Reconstructing the diversity dynamics of Late Quaternary grasslands using deep learning on superresolution images of fossil Poaceae pollen
 
 <p align="center">
   <img src="https://github.com/paleopollen/Pollen_Diversity_Dynamics/blob/main/Figures_Rutundu/Figure_2_MountKenya_Map.png" width="950" title="hover text">
