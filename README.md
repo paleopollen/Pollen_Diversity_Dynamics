@@ -1,19 +1,19 @@
 # Deep learning of fossil pollen morphology reveals 25,000 years of ecological change in East African grasslands
 
 <p align="center">
-  <img src="https://github.com/paleopollen/Pollen_Biodiversity_Reconstruction/blob/main/Figures_Rutundu/Rutundu_Figure_2_Revised.png" width="800" title="hover text">
+  <img src="https://github.com/paleopollen/Pollen_Diversity_Dynamics/blob/main/Figures_Rutundu/Rutundu_Figure_2_Revised.png" width="800" title="hover text">
 </p>
 
 <br><br>
 
 <p align="center">
-  <img src="https://github.com/paleopollen/Pollen_Biodiversity_Reconstruction/blob/main/Figures_Rutundu/Rutundu_Figure_1_4_Revised.png" width="750" title="hover text">
+  <img src="https://github.com/paleopollen/Pollen_Diversity_Dynamics/blob/main/Figures_Rutundu/Rutundu_Figure_1_4_Revised.png" width="750" title="hover text">
 </p>
 
 <br><br>
 
 <p align="center">
-  <img src="https://github.com/paleopollen/Pollen_Biodiversity_Reconstruction/blob/main/Figures_Rutundu/Rutundu_Figure_5_Revised.png" width="750" title="hover text">
+  <img src="https://github.com/paleopollen/Pollen_Diversity_Dynamics/blob/main/Figures_Rutundu/Rutundu_Figure_5_Revised.png" width="750" title="hover text">
 </p>
 
 # Abstract
