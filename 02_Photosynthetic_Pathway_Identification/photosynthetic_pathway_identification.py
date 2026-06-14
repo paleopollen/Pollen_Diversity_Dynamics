@@ -29,7 +29,7 @@ import torch
 
 photosynthetic_pathway = [
   "C3",  # Agropyron ciliare (= Elymus ciliaris)
-  "C4",  # Agrostis mexicana (= Agrostis tolucensis); reassigned to Eragrostis (C4)
+  "C4",  # Agrostis mexicana (= Eragrostis mexicana); initially identified as Agrostis mexicana but later reassigned to Eragrostis mexicana (C4) after further investigation
   "C3",  # Agrostis quinqueseta
   "C3",  # Agrostis trachyphylla
   "C3",  # Agrostis volkensii
