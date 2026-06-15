@@ -41,7 +41,7 @@ photosynthetic_pathway = [
   "C4",  # Andropogon schirensis; reassigned to C4 (potential error in Wooller et al. 2001)
   "C3",  # Anthoxanthum nivale
   "C4",  # Aristida implexa (= Aristida megapotamica)
-  "C4",  # Bothriochloa bladhii
+  "C4",  # Bothriochloa intermedia (= Bothriochloa bladhii)
   "C4",  # Brachiaria brizantha (= Urochloa brizantha)
   "C3",  # Brachypodium flexum
   "C3",  # Bromus auleticus
